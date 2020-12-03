@@ -1,2 +1,2 @@
 # hello-world
-scratchrepository
+scratch repository
